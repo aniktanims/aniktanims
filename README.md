@@ -8,7 +8,7 @@
 - 🔧 New Technology
 
 ## About Me
-I'm a Software Engineer passionate about programming and the latest technologies. I hold a degree in Computer Science and Engineering (CSE) from North South University.
+I'm a Software Engineer passionate about programming, AI and the latest technologies. I graduated in Computer Science and Engineering (CSE) from North South University. 
 
 ## Currently Learning
 - 📘 N/A
