@@ -32,9 +32,9 @@ As a **Fiverr Pro vetted freelancer**, I've successfully delivered 100+ projects
 
 <div align="center">
 
-### 📚 **North South University, Dhaka, Bangladesh**
-**Bachelor of Science in Computer Science & Engineering** | Minor in CSE  
-**2019 - 2023** | **80% Percentage**
+### 📚 **North South University (#1 Private University in Bangladesh) **
+**Bachelor of Science in Computer Science & Engineering** | CSE  
+**2019 - 2023** | ** A Grade**
 
 #### 📖 **Relevant Coursework**
 - Software Engineering & System Design
@@ -45,7 +45,7 @@ As a **Fiverr Pro vetted freelancer**, I've successfully delivered 100+ projects
 - Network and Communication Systems
 
 ### 🏛️ **University Excellence**
-**North South University** is Bangladesh's leading private university, renowned for its rigorous Computer Science program and industry-focused curriculum. Graduated with **80%** - demonstrating strong academic performance and deep technical expertise.
+**North South University** is Bangladesh's leading private university, renowned for its rigorous Computer Science program and industry-focused curriculum. Graduated with **A Grade** - demonstrating strong academic performance and deep technical expertise.
 
 </div>
 
