@@ -57,17 +57,20 @@ As a **Fiverr Pro vetted freelancer**, I've successfully delivered 100+ projects
 
 ### 🚀 **Current Roles**
 | Position | Company | Duration | Key Responsibilities |
-|----------|---------|----------|---------------------|
-| **AI Content Evaluator** | SRT (Meta/Facebook) - Outlier AI | 2024-2025 | Data labeling, AI response validation, multilingual content evaluation (Bengali), prompt tuning |
-| **Bengali Native Speaker** | Babel Audio | 2024-2025 | Voice data contribution, linguistic validation for AI speech recognition models |
-| **Chief Technology Officer (CTO)** | DSPLACE Inc | 2024-2025 | Shopify development, custom coding, APIs, GraphQL, Meta Ads integration, tech strategy |
-| **Junior Software Engineer Intern** | Microsoft (Copilot Team MSFT264) | 2024-2025 | Backend development with Node.js, Express.js, PostgreSQL, scalable API services |
+|----------|----------|-----------|----------------------|
+| **Master Software Engineer** | Invisible Technologies (Shell Process – Meta AI S4) | 2025 – Present | Leading AI automation pipelines, optimizing Meta AI evaluation systems, backend integration, and process scalability |
+| **Fiverr Vetted Pro Specialist** | Fiverr | 2024 – Present | Vetted by Fiverr Pro team for exceptional expertise; delivering high-impact web and AI development solutions to global clients |
+
+---
 
 ### 💼 **Previous Experience**
 | Position | Company | Duration | Key Achievements |
-|----------|---------|----------|------------------|
-| **Chief Technology Officer (CTO)** | DSPLACE Inc | 2020-2024 | Led tech strategy, React.js/Node.js development, MongoDB/AWS deployment, Agile team management |
-| **Full Stack Developer (Top Rated)** | Upwork | 2013-2022 | 1,000+ projects delivered, MERN stack specialization, international client management |
+|----------|----------|-----------|------------------|
+| **AI Content Evaluator** | SRT (Meta/Facebook) – Outlier AI | 2024 – 2025 | Data labeling, AI response validation, multilingual content evaluation (Bengali), prompt tuning |
+| **Bengali Native Speaker** | Babel Audio | 2024 – 2025 | Voice data contribution, linguistic validation for AI speech recognition models |
+| **Chief Technology Officer (CTO)** | DSPLACE Inc | 2019 – 2025 | Shopify development, custom coding, APIs, GraphQL, Meta Ads integration, tech strategy |
+| **Junior Software Engineer Intern** | Microsoft (Copilot Team MSFT264) | 2023 – 2025 | Backend development with Node.js, Express.js, PostgreSQL, scalable API services |
+| **Full Stack Developer (Top Rated)** | Upwork | 2013 – 2022 | 1,000+ projects delivered, MERN stack specialization, international client management |
 
 </div>
 
