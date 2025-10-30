@@ -231,19 +231,19 @@ Inspired by **shadcn/ui** and modern design systems, I believe in:
 
 <div align="center">
 
-| 🏆 Achievement | 📅 Date | 🎯 Description |
-|---------------|--------|---------------|
-| 🎓 **BSc in CSE** | 2023 | North South University, 80% - Top performer in cohort |
-| 🚀 Fiverr Pro Vetted | 2024 | Recognized for expertise in web development |
-| 💻 14+ Years Experience | 2024 | Senior Software Engineer milestone |
-| ⭐ 5.0 Rating | 2024 | Perfect score across 16 reviews |
-| 🛒 Shopify Expert | 2023 | Specialized in e-commerce development |
-| 🤖 AI/ML Integration | 2024 | Deployed ML models in production |
-| 🌟 100+ Projects | 2024 | Successful project deliveries |
-| 📚 Tech Consultant | 2023 | Provided expert guidance to businesses |
-| 🎯 Client Satisfaction | 2024 | Repeat clients and long-term partnerships |
-| 🏆 Senior Design Project | 2023 | AI Weapon Detection System using YOLOv7 |
-| 🏅 Microsoft Intern | 2024 | Copilot Team MSFT264 - Backend development |
+| 🏆 Achievement | 🎯 Description |
+|---------------|---------------|
+| 🎓 **BSc in CSE** | North South University, 80% - Top performer in cohort |
+| 🚀 Fiverr Pro Vetted | Recognized for expertise in web development |
+| 💻 14+ Years Experience | Senior Software Engineer milestone |
+| ⭐ 5.0 Rating | Perfect score across 16 reviews |
+| 🛒 Shopify Expert | Specialized in e-commerce development |
+| 🤖 AI/ML Integration | Deployed ML models in production |
+| 🌟 100+ Projects | Successful project deliveries |
+| 📚 Tech Consultant | Provided expert guidance to businesses |
+| 🎯 Client Satisfaction | Repeat clients and long-term partnerships |
+| 🏆 Senior Design Project | AI Weapon Detection System using YOLOv7 |
+| 🏅 Microsoft Intern | Copilot Team MSFT264 - Backend development |
 
 </div>
 
