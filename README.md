@@ -14,19 +14,62 @@
 
 ```text
 🎯 Senior Software Engineer & Shopify Expert (14+ Years)
-📍 Based in Dhaka, Bangladesh
+📍 Dinajpur, Rangpur, 5250, Bangladesh | 📞 +880 1797-622411
 💼 Full-Stack Developer | E-commerce Specialist | AI Enthusiast
 🔥 Passionate about scalable solutions & cutting-edge technologies
 🌱 Always learning & exploring new technologies
 🎨 Inspired by modern design systems like shadcn/ui
-💬 Languages: English (Fluent), Spanish (Conversational)
+💬 Languages: Bengali (Native), English (Fluent)
 ```
 
-I'm **Mostofa Tanim Anik**, a seasoned Senior Software Engineer with over 14 years of experience in full-stack development and e-commerce solutions. I specialize in building robust, scalable web applications with a focus on user experience, performance, and modern technologies. My expertise spans across Shopify development, WordPress/WooCommerce, Node.js, React, and AI/ML integration.
+I'm **Mostofa Tanim Anik**, a **North South University** graduate with a **BSc in Computer Science & Engineering** (80%), and a seasoned Senior Software Engineer with over 14 years of experience in full-stack development and e-commerce solutions. I specialize in building robust, scalable web applications with a focus on user experience, performance, and modern technologies. My expertise spans across Shopify development, WordPress/WooCommerce, Node.js, React, and AI/ML integration.
 
 As a **Fiverr Pro vetted freelancer**, I've successfully delivered 100+ projects with a perfect 5.0 rating and 16 glowing reviews. I transform complex business requirements into elegant, functional solutions that drive results.
 
 ---
+
+## 🎓 Education
+
+<div align="center">
+
+### 📚 **North South University, Dhaka, Bangladesh**
+**Bachelor of Science in Computer Science & Engineering** | Minor in CSE  
+**2019 - 2023** | **80% Percentage**
+
+#### 📖 **Relevant Coursework**
+- Software Engineering & System Design
+- Data Structures & Algorithms
+- Web Development & Application Development
+- Database Systems & Management
+- Artificial Intelligence & Machine Learning
+- Network and Communication Systems
+
+### 🏛️ **University Excellence**
+**North South University** is Bangladesh's leading private university, renowned for its rigorous Computer Science program and industry-focused curriculum. Graduated with **80%** - demonstrating strong academic performance and deep technical expertise.
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<div align="center">
+
+### 🚀 **Current Roles**
+| Position | Company | Duration | Key Responsibilities |
+|----------|---------|----------|---------------------|
+| **AI Content Evaluator** | SRT (Meta/Facebook) - Outlier AI | 2024-2025 | Data labeling, AI response validation, multilingual content evaluation (Bengali), prompt tuning |
+| **Bengali Native Speaker** | Babel Audio | 2024-2025 | Voice data contribution, linguistic validation for AI speech recognition models |
+| **Chief Technology Officer (CTO)** | DSPLACE Inc | 2024-2025 | Shopify development, custom coding, APIs, GraphQL, Meta Ads integration, tech strategy |
+| **Junior Software Engineer Intern** | Microsoft (Copilot Team MSFT264) | 2024-2025 | Backend development with Node.js, Express.js, PostgreSQL, scalable API services |
+
+### 💼 **Previous Experience**
+| Position | Company | Duration | Key Achievements |
+|----------|---------|----------|------------------|
+| **Chief Technology Officer (CTO)** | DSPLACE Inc | 2020-2024 | Led tech strategy, React.js/Node.js development, MongoDB/AWS deployment, Agile team management |
+| **Full Stack Developer (Top Rated)** | Upwork | 2013-2022 | 1,000+ projects delivered, MERN stack specialization, international client management |
+
+</div>
 
 ## 🛠️ Tech Arsenal
 
@@ -70,6 +113,14 @@ As a **Fiverr Pro vetted freelancer**, I've successfully delivered 100+ projects
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 📊 Data & AI Tools
+- **Data Labeling & Annotation**: LabelImg, CVAT, Labelbox
+- **AI/ML Frameworks**: CNN, YOLOv7, Object Detection, Image Classification
+- **Development Practices**: Version Control (Git), Project Management (Jira, Notion)
+- **Testing & QA**: Unit Testing (Jest), API Testing (Postman), Chrome DevTools
 
 </div>
 
@@ -151,6 +202,17 @@ As a **Fiverr Pro vetted freelancer**, I've successfully delivered 100+ projects
 - **Volare The Woodlands** - Ticketing & subscription platform
 - **Multiple Migrations** - Site transfers and backups
 
+### 🤖 **AI & ML Projects**
+- **AI Weapon Detection System** - Real-time weapon detection using YOLOv7, CNN, OpenCV, PyTorch
+- **Artificial Intelligent House Rental System** - AI-driven property recommendations with geolocation
+- **AI Support Chatbot** - Intelligent customer support using ChatGPT API
+- **Meta Marketplace Automation** - Chrome extension for automated product listing
+
+### 📱 **Development Projects**
+- **MERN Stack Applications** - 1,000+ projects delivered on Upwork
+- **Custom Web Applications** - Full-stack solutions with modern frameworks
+- **E-commerce Platforms** - Complete store setups and custom integrations
+
 ---
 
 ## 🎨 Design Philosophy
@@ -171,14 +233,17 @@ Inspired by **shadcn/ui** and modern design systems, I believe in:
 
 | 🏆 Achievement | 📅 Date | 🎯 Description |
 |---------------|--------|---------------|
+| 🎓 **BSc in CSE** | 2023 | North South University, 80% - Top performer in cohort |
 | 🚀 Fiverr Pro Vetted | 2024 | Recognized for expertise in web development |
 | 💻 14+ Years Experience | 2024 | Senior Software Engineer milestone |
 | ⭐ 5.0 Rating | 2024 | Perfect score across 16 reviews |
-| � Shopify Expert | 2023 | Specialized in e-commerce development |
+| 🛒 Shopify Expert | 2023 | Specialized in e-commerce development |
 | 🤖 AI/ML Integration | 2024 | Deployed ML models in production |
 | 🌟 100+ Projects | 2024 | Successful project deliveries |
 | 📚 Tech Consultant | 2023 | Provided expert guidance to businesses |
 | 🎯 Client Satisfaction | 2024 | Repeat clients and long-term partnerships |
+| 🏆 Senior Design Project | 2023 | AI Weapon Detection System using YOLOv7 |
+| 🏅 Microsoft Intern | 2024 | Copilot Team MSFT264 - Backend development |
 
 </div>
 
@@ -226,6 +291,7 @@ Inspired by **shadcn/ui** and modern design systems, I believe in:
 
 ### 💌 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostofa.tanim.anik@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801797622411)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aniktanims)
 
 ### 📊 Profile Views
