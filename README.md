@@ -291,7 +291,7 @@ Inspired by **shadcn/ui** and modern design systems, I believe in:
 
 ### 💌 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikrtsb@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([tel:+8801797622411](https://wa.me/+13463062541))
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+13463062541)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aniktanims)
 
 ### 📊 Profile Views
